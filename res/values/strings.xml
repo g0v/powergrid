@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">電力座標定位</string>
+<string name="input_label">在地圖中顯示</string>
+
+<string name="app_description">電力座標定位是一個可以將台灣電力公司在電氣設備上的座標編碼轉為常用的座標並且定位的程式</string>
+<string name="input_hint">在此輸入電力座標</string>
+<string name="twd67_label">TWD67</string>
+<string name="twd97_label">TWD97</string>
+<string name="latlon_label">Lat/Lon</string>
+<string name="na">N/A</string>
+<string name="g_error">第一個字元必需為A至W之間</string>
+<string name="pp_error">第二到三個字元必需為數字</string>
+<string name="qq_error">第四到五個字元必需為數字</string>
+<string name="r_error">第六個字元必需為A~H之間</string>
+<string name="s_error">第七個字元必需為A~E之間</string>
+<string name="length_error">座標長度必需為9或11個字元</string>
+<string name="t_error">第八個字元必需為數字</string>
+<string name="u_error">第九個字元必需為數字</string>
+<string name="v_error">第十個字元必需為數字</string>
+<string name="w_error">第十一個字元必需為數字</string>
+<string name="visit_author_button">拜訪作者網站</string>
+<string name="author_uri">http://blog.ez2learn.com</string>
+</resources>

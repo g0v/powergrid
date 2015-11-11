@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/CodeEditText" android:ellipsize="middle" android:hint="@string/input_hint" android:imeOptions="actionGo" android:inputType="text"></EditText>
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_width="fill_parent"><TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/twd67_label"></TextView><EditText android:layout_height="wrap_content" android:text="@string/na" android:layout_width="fill_parent" android:id="@+id/TWD67EditText" android:inputType="none" android:editable="true"></EditText>
+
+
+</LinearLayout><LinearLayout android:id="@+id/LinearLayout01" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_width="fill_parent"><TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/twd97_label"></TextView><EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/na" android:id="@+id/TWD97EditText" android:inputType="none" android:editable="true"></EditText>
+
+
+</LinearLayout><LinearLayout android:id="@+id/LinearLayout01" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_width="fill_parent"><TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/latlon_label"></TextView><EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/na" android:id="@+id/LatLonEditText" android:inputType="none" android:editable="true"></EditText>
+
+
+</LinearLayout><Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/input_label" android:id="@+id/InputButton"></Button>
+
+
+
+
+
+
+
+
+<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/VisitAuthorButton" android:text="@string/visit_author_button"></Button>
+</LinearLayout>
