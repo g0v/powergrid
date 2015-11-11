@@ -1,5 +1,5 @@
 # powergrid
-An Android app for finding corresponding WGS coordinates for Taiwan power grid coordinates
+An Android app for finding corresponding WGS coordinates for Taiwan power grid coordinates. To know more about Taiwan power grid coordinates, you can reference to [Orienting with utility pole and box coordinates](http://jidanni.org/geo/taipower/index.html)
 
 ## Screenshots
 
